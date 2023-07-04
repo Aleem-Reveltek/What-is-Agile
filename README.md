@@ -100,3 +100,66 @@ An agile mindset is about being flexible and ready for any unpredictable change.
 
 Change will come. It always does. Your job is to prepare your brain to stay calm and collected so that you can handle each emotional wave with ease. If everyone on the team is ready for change, you'll be able to bounce back quickly and refocus energy on solving new problems.
 
+---
+
+# Guide to Understanding Agile and the Agile Manifesto
+
+## Introduction
+Agile is an iterative approach to project management that focuses on responsiveness and delivering value quickly to customers. This guide will provide an overview of Agile, its defining characteristics, and explain the philosophy behind the Agile Manifesto.
+
+## 1. Understanding Agile
+Agile is an iterative project management approach that emphasizes small increments of work and continuous feedback from customers. Unlike traditional planning methods, Agile allows for adaptive planning and evolving development.
+
+- Agile's defining characteristics:
+  - Adaptive Planning: Rather than planning an entire year's worth of work, Agile focuses on planning small iterations to deliver value and receive feedback from customers.
+  - Evolutionary Development: Agile promotes building software in small increments and evolving it over time based on customer feedback.
+  - Early Delivery: Agile emphasizes the importance of delivering iterations to customers early to obtain valuable feedback for improvement.
+  - Continuous Improvement: Agile enables teams to continuously improve both their work processes and the product by incorporating customer feedback.
+  - Responsiveness to Change: Agile allows teams to respond quickly to changing requirements and adapt their plans based on customer needs.
+
+## 2. The Agile Manifesto
+The Agile Manifesto is a set of principles that guide Agile software development. It values certain aspects more than others to ensure customer satisfaction and flexibility throughout the development process.
+
+- Key Principles of the Agile Manifesto:
+  - Individuals and Interactions over Processes and Tools: Prioritizing effective communication and collaboration among team members and with customers rather than relying solely on processes and tools.
+  - Working Software over Comprehensive Documentation: Placing more importance on delivering functional software rather than extensive documentation.
+  - Customer Collaboration over Contract Negotiation: Emphasizing the collaboration and active involvement of customers in the development process, instead of focusing solely on contractual agreements.
+  - Responding to Change over Following a Plan: Valuing the ability to respond and adapt to changing requirements instead of strictly adhering to a predefined plan.
+
+## 3. Agile Software Development
+Agile software development aligns with the principles of the Agile Manifesto. It emphasizes keeping the core values in mind while focusing on flexibility, interactivity, and transparency.
+
+- Key Aspects of Agile Software Development:
+  - Flexibility: Agile teams embrace change and adapt their plans and development process accordingly.
+  - Interactivity: Effective communication and collaboration among team members and customers are crucial for successful Agile development.
+  - Transparency: Agile teams promote transparency by ensuring that everyone knows what others are working on and fostering a sense of responsibility towards delivering value to customers.
+  - Small, Cross-Functional Teams: Agile teams are composed of small, co-located, cross-functional members who work together to achieve project goals.
+  - Self-Organizing and Self-Managing: Agile teams have autonomy and take ownership of their work, organizing themselves to maximize productivity and efficiency.
+
+## Conclusion
+Agile is an iterative and collaborative approach to software development that values customer satisfaction and flexibility. The Agile Manifesto outlines the core principles that guide Agile development, emphasizing the importance of individuals, working software, customer collaboration, and responsiveness to change. By implementing Agile methodologies and embracing its core values, teams can deliver high-quality software that meets evolving customer needs.
+
+```mermaid
+graph LR
+    A[Guide to Understanding Agile and the Agile Manifesto] --> B[Introduction]
+    B --> C[1. Understanding Agile]
+    C --> D[Agile's defining characteristics]
+    D --> E[Adaptive Planning]
+    D --> F[Evolutionary Development]
+    D --> G[Early Delivery]
+    D --> H[Continuous Improvement]
+    D --> I[Responsiveness to Change]
+    C --> J[2. The Agile Manifesto]
+    J --> K[Key Principles of the Agile Manifesto]
+    K --> L[Individuals and Interactions over Processes and Tools]
+    K --> M[Working Software over Comprehensive Documentation]
+    K --> N[Customer Collaboration over Contract Negotiation]
+    K --> O[Responding to Change over Following a Plan]
+    C --> P[3. Agile Software Development]
+    P --> Q[Key Aspects of Agile Software Development]
+    Q --> R[Flexibility]
+    Q --> S[Interactivity]
+    Q --> T[Transparency]
+    Q --> U[Small, Cross-Functional Teams]
+    Q --> V[Self-Organizing and Self-Managing]
+    P --> W[Conclusion]
