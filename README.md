@@ -568,3 +568,5 @@ Remember, technical debt is essential to address to maintain the health of the p
 5. **Review and Adapt:** Continuously review and adjust the product backlog based on changing requirements, feedback, and stakeholder priorities.
 
 By following these steps, you can create a well-prioritized and detailed product backlog that will aid in sprint planning and successful Agile development. Regularly refine the backlog to ensure that it aligns with the project's goals and adapts to the evolving needs of the stakeholders.
+
+![Screenshot 2023-07-16 225812](https://github.com/Aleem-Reveltek/What-is-Agile/assets/117277515/2a6383ef-0b7c-4443-9fac-cdb774da75fa)
