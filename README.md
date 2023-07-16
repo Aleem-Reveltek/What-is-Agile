@@ -726,3 +726,37 @@ In the world of metrics and data-driven decision-making, it is essential to dist
 5. **Transparency and Communication:** Share the metric data and progress with the entire team to foster transparency and collective ownership of improvement efforts.
 
 By using actionable metrics and leveraging data-driven decision-making, teams can continuously improve their performance, deliver better outcomes, and stay focused on achieving their goals. Remember, it's not just about measuring for the sake of it but using the metrics to guide your team's actions and drive real improvements.
+
+---
+
+# Closing out the Sprint on the Kanban Board and Preparing for the Next Sprint
+
+At the end of a sprint, there are several important activities that need to be completed on the Kanban board to ensure a smooth transition and accurate tracking of the team's progress. Here's a step-by-step guide to closing out the sprint and preparing for the next one:
+
+## Closing out the Current Sprint:
+
+1. **Move Done Items to Closed:** Take all the items that are in the "Done" column of the Kanban board and move them to the "Closed" column. This indicates that these items have been successfully completed and delivered.
+
+2. **Close the Current Milestone:** If you are using sprints in a tool like ZenHub, the milestone may automatically close itself based on the end date. However, if you are using a regular milestone in GitHub or similar tools, you need to manually close it. Closing the milestone ensures that you get credit for the team's velocity on the velocity charts.
+
+3. **Create a New Sprint Milestone:** Prepare for the next sprint by creating a new sprint milestone. While you may choose to do this during the next sprint planning meeting, it's helpful to have the new milestone ready beforehand.
+
+## Handling Unfinished Stories:
+
+1. **Unfinished, Untouched Stories:** If there are stories that have not been started during the current sprint, move them to the top of the product backlog. Avoid assuming that these stories should automatically be included in the next sprint, as priorities might change.
+
+2. **Unfinished Stories with Some Progress:** For stories that were started but not completed, do not simply move them into the next sprint. Adjust the remaining story points to reflect the amount of work completed, and write a new story for the remaining work. This helps maintain an accurate velocity.
+
+3. **Adjust Descriptions and Labels:** For half-finished stories, consider adding an "Unfinished" label or tag to identify them as incomplete. Update the descriptions to indicate that the story was closed in the current sprint, even though it's not entirely finished.
+
+4. **Write a New Story:** Create a new story for the remaining work and add it to the product backlog. If you are certain that it needs to be done in the next sprint, you can move it to the next sprint milestone (if already created) during this step.
+
+## Preparing for the Next Sprint:
+
+1. **Close Current Sprint Stories:** Make sure that all the stories that were assigned to the current sprint are closed, reflecting the completed and unfinished work.
+
+2. **Reassign Unfinished Stories:** For any unfinished stories, ensure they are reassigned to the appropriate team members or left in the product backlog for prioritization in the next sprint.
+
+3. **Manage Sprint Milestones:** Remove any closed stories from the previous sprint milestone and move them to the product backlog. If a new sprint milestone hasn't been created, consider creating it at this point.
+
+By following these steps, the team can effectively close out the current sprint, handle unfinished work, and prepare for the next sprint. Keeping the Kanban board updated and accurate enables better tracking of progress, maintains a more reliable velocity measurement, and helps the team stay focused and productive.
