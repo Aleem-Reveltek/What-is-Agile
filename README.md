@@ -760,3 +760,46 @@ At the end of a sprint, there are several important activities that need to be c
 3. **Manage Sprint Milestones:** Remove any closed stories from the previous sprint milestone and move them to the product backlog. If a new sprint milestone hasn't been created, consider creating it at this point.
 
 By following these steps, the team can effectively close out the current sprint, handle unfinished work, and prepare for the next sprint. Keeping the Kanban board updated and accurate enables better tracking of progress, maintains a more reliable velocity measurement, and helps the team stay focused and productive.
+
+
+---
+
+# Scrum Anti-Patterns to Avoid and Scrum Team Health Checklist
+
+## Scrum Anti-Patterns to Avoid:
+
+1. **No Real Product Owner:** Having unclear or multiple product owners can lead to confusion and lack of direction for the team. There should be a single, clear product owner who provides a clear vision and leads the team.
+
+2. **Teams That Are Too Large:** Large teams can hinder effective communication and collaboration. Scrum teams are recommended to be small, typically between 5 to 9 members, to promote efficient decision-making and productivity.
+
+3. **Teams Not Dedicated:** Team members being assigned to multiple projects simultaneously can cause disruptions and lower productivity. Team members should be dedicated to the scrum team to ensure focus and commitment.
+
+4. **Geographically Dispersed Teams:** While it's common for teams to work in different locations, having too much geographic dispersion can make communication and collaboration challenging. It's best to have at least a couple of team members in each location or time zone for better coordination.
+
+5. **Siloed Teams:** Scrum teams should be cross-functional and self-contained, meaning they have all the skills and resources needed to complete the work without dependencies on other teams.
+
+6. **Teams Not Self-Managing:** Scrum teams should have the autonomy to manage their own work and decide on how to approach tasks. The team should have the freedom to self-organize and decide which backlog items to work on next.
+
+## Scrum Team Health Checklist:
+
+1. **Accountability:** All team members, including the Scrum Master and Product Owner, should be accountable for their roles and responsibilities. They should take ownership of their tasks and collaborate to achieve the team's goals.
+
+2. **Working in Small Sprints:** Teams should work in short sprints, typically one to two weeks in duration. Longer sprints can lead to delays in feedback and adjustments.
+
+3. **Ordered Product Backlog:** The product backlog should be well-organized and prioritized, making it clear what work needs to be done next.
+
+4. **Sprint Backlog:** Each sprint should have a defined sprint backlog that contains all the work committed to in that sprint.
+
+5. **Daily Scrum and Replanning:** The daily scrum should be used to identify any obstacles and adjust the plan as needed. Replanning work may be necessary to accommodate changes or unforeseen challenges.
+
+6. **Incremental Delivery:** By the end of each sprint, the team should have a potentially shippable product increment that adds new value to the product.
+
+7. **Stakeholder Feedback:** Stakeholders should actively participate in sprint reviews and provide feedback on the delivered increment. This feedback should be used to update the product backlog and make improvements.
+
+8. **Product Backlog Updates:** After a sprint review, new feedback and ideas from stakeholders should be added to the product backlog as new user stories or items.
+
+9. **Alignment among Scrum Team Members:** The product owner, development team, and Scrum Master should be aligned on the work in progress and have a shared understanding of the sprint goals and priorities.
+
+10. **Sprint Retrospective:** Regular sprint retrospectives should be held to reflect on what went well, what didn't, and to identify areas for improvement. The team should take action to incrementally improve their processes.
+
+By avoiding anti-patterns and following the Scrum team health checklist, a Scrum team can work more efficiently, deliver value consistently, and continually improve its performance over time.
