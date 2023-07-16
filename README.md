@@ -434,3 +434,49 @@ When a user story is too large to fit into a single sprint, it becomes an Epic. 
 Remember to break down Epics into smaller user stories during backlog refinement and sprint planning.
 
 In summary, user stories are essential tools for capturing business value and delivering functionality in Agile development. By following the template and using acceptance criteria, INVEST principles, and Epics when necessary, teams can create efficient and effective user stories that drive the success of their projects.
+
+---
+
+# Guide to Story Points and Estimation
+
+## What are Story Points?
+
+Story points are a metric used in Agile development to estimate the difficulty of delivering and implementing a user story. They are an abstract measure, which means they do not represent specific units of time or effort. Instead, they serve as a relative indicator of the size and complexity of a task.
+
+### Considerations for Assigning Story Points
+
+When estimating story points, several factors come into play:
+
+1. **Effort:** Evaluate how hard the task is to complete. This refers to the amount of work and energy required.
+
+2. **Complexity:** Consider the level of complexity involved in the task. Some tasks may be straightforward, while others might involve intricate details or dependencies.
+
+3. **Uncertainty:** If the team has never attempted a similar task before, there may be uncertainty about its complexity. In such cases, the story points might be higher to account for the unknown.
+
+### Estimating Story Points on a Relative Scale
+
+Since humans are not good at estimating tasks in absolute terms, story points are estimated on a relative scale. This means that instead of assigning specific numeric values to tasks, they are compared to each other in terms of size and complexity. A common approach to relative estimation is using the Fibonacci sequence (e.g., 1, 2, 3, 5, 8, 13).
+
+To make the estimation process more manageable, consider the following guidelines:
+
+1. **Use T-Shirt Sizes:** Story points can be likened to t-shirt sizes: small, medium, large, and extra-large. Choose a baseline story, usually a medium-sized one, and use it as a reference for comparison.
+
+2. **Agree on Definitions:** Ensure the team agrees on what each t-shirt size represents in terms of effort and complexity. For example, a medium-sized story might take two to three days to complete.
+
+3. **Relative Comparison:** When estimating a new user story, compare it to the baseline story and ask whether it is smaller, larger, or equivalent in size.
+
+4. **Avoid Detailed Time Estimates:** Story points are not meant to represent specific time frames, such as hours or days. Keep the estimation abstract and focused on the relative size of the tasks.
+
+## The Size of a Story
+
+Ideally, a user story should be relatively small and something that can be completed in a few days. Avoid making stories too large, as they may be difficult to estimate accurately and fit into a single sprint. If a story seems too big, break it down into smaller, manageable tasks. Large stories should be treated as epics and broken down further for better planning and tracking.
+
+## Avoiding Anti-Patterns
+
+To ensure accurate and effective estimation with story points, watch out for these anti-patterns:
+
+1. **Evaluating Stories on Wall Clock Time:** Never equate story points with specific units of time like days or hours. Story points are meant to be abstract and relative.
+
+2. **Relying on Traditional Time Estimation:** Avoid falling back into the habit of estimating tasks using traditional wall clock time. Embrace the concept of relative estimation and t-shirt sizing.
+
+By understanding the true nature of story points and adopting relative estimation practices, Agile teams can make better decisions, plan effectively, and achieve greater success in their development efforts.
